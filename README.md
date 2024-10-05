@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasi-chothe&label=Profile%20views&color=0e75b6&style=flat" alt="manasi-chothe" /> </p>
 
-
-
 ⚡Fun fact : I once tried to teach my cat to code; we’re still working on the basics!
 
 <h3 align="left">Connect with me:</h3>
